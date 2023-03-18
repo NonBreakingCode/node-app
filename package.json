@@ -1,0 +1,17 @@
+{
+  "name": "mongowithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "codeguyakash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
